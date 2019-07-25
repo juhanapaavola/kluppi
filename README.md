@@ -18,9 +18,9 @@ footer: Copyright © 2019-present Juhana Paavola (juhana.paavola@gmail.com)
     margin: 5rem auto;
     padding: 0 5rem;">
     
-  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="/Screenshot1.jpg">
-  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="/Screenshot2.jpg">
-  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="/Screenshot3.jpg">
+  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="Screenshot1.jpg">
+  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="Screenshot2.jpg">
+  <img style="width: 100%; height: 22vw; object-fit: cover; border-radius: 0.75rem;" src="Screenshot3.jpg">
   
 </div>
 
