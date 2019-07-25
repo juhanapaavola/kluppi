@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/',
     title: 'Kluppi',
     description: 'Mobile application to browse klubitus.org event feed',
     themeConfig: {
