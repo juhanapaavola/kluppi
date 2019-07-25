@@ -2,6 +2,7 @@ module.exports = {
     base: '/kluppi/',
     title: 'Kluppi',
     dest: 'docs',
+    ga: 'UA-144246311-2',
     description: 'Mobile application to browse klubitus.org event feed',
     themeConfig: {
         logo: '/kluppi-512.png',
