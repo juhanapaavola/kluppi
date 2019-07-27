@@ -11,6 +11,9 @@ features:
 footer: Copyright © 2019-present Juhana Paavola (juhana.paavola@gmail.com)
 ---
 
+<a href='https://play.google.com/store/apps/details?id=com.juhanapaavola.kluppi&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' style="display: block; margin-left: auto; margin-right: auto; width: 16rem;"/></a>
+
+
 <div style="display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
     grid-gap: 1rem;
